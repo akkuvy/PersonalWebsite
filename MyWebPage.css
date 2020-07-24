@@ -1,0 +1,25 @@
+h1{
+    font-size: 200 px;
+    font-family: 'Ranchers', cursive;
+    color:white;
+}
+body{
+   background-color: black;
+
+}
+
+h2,h5,h3{
+    color: white
+}
+.card{
+    color: white;
+    background-color: black !important;
+}
+.nav-link{
+color: white;
+}
+ 
+#services{
+    background-color: black;
+
+}
